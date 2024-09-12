@@ -8,6 +8,13 @@
       "when": 1726102668592,
       "tag": "0000_grey_morlocks",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1726179709954,
+      "tag": "0001_lucky_klaw",
+      "breakpoints": true
     }
   ]
 }
